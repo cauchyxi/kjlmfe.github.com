@@ -22,10 +22,10 @@ BTW：如果你非常喜欢这个游戏，但经济能力有限，我愿把账�
 
 进入游戏后，你有四个初始按键技能：hjkl（如下图），分别代表光标移动的四个方向。
 
-![]({{ site.img_url }}vim-adventures-level1-1.png)
+![]({{ site.imgs_url }}vim-adventures-level1-1.png)
 
 你需要使用hjkl来移动你的位置，进入右方迷宫后，你会遇见小人，他们会告诉你一些有用的tips，建议认真看，然后吃到一把黄色钥匙，在迷宫出口有个门，需要你用钥匙打开才能通过。
 
 出了迷宫后，需要穿过斜坡，这里有个小技巧，我们需要先移动到第一行末尾（如下图），然后一直按j（向下）就能穿过斜坡了，后面同理穿过多个斜坡后，第一关就结束了。
 
-![]({{ site.img_url }}vim-adventures-level1-2.png)
+![]({{ site.imgs_url }}vim-adventures-level1-2.png)
